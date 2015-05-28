@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\hud.js">
+    <Files>
+      <File FileName="Assets\horse_controller.js" Line="75" Column="8" />
+      <File FileName="Assets\bullet.js" Line="25" Column="54" />
+      <File FileName="Assets\gun.js" Line="1" Column="1" />
+      <File FileName="Assets\hud.js" Line="16" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
